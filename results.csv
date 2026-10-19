@@ -1,0 +1,169 @@
+﻿timestamp,category,model,text,sentiment,confidence
+2026-10-12T18:44:52,dataset,RoBERTa,The application works perfectly. I use it every day.,Positive,97.73
+2026-10-12T18:44:52,dataset,RoBERTa,"The delivery was late, and the package was damaged.",Negative,89.94
+2026-10-12T18:44:52,dataset,RoBERTa,"The product is acceptable, but nothing special.",Negative,49.02
+2026-10-12T18:44:52,dataset,RoBERTa,Excellent customer support and fast service!,Positive,97.18
+2026-10-12T18:44:52,dataset,RoBERTa,The software crashes every time I open it.,Negative,87.9
+2026-10-12T18:44:52,dataset,RoBERTa,The headphones have clear sound and comfortable ear cushions.,Positive,85.45
+2026-10-12T18:44:52,dataset,RoBERTa,I am disappointed with the quality of this product.,Negative,93.56
+2026-10-12T18:44:52,dataset,RoBERTa,The website is easy to navigate and looks modern.,Positive,92.47
+2026-10-12T18:44:52,dataset,RoBERTa,The food arrived cold and tasted terrible.,Negative,94.66
+2026-10-12T18:44:52,dataset,RoBERTa,The staff were friendly and helped me solve the problem.,Positive,80.57
+2026-10-12T18:44:52,dataset,RoBERTa,The battery lasts much longer than I expected.,Positive,60.68
+2026-10-12T18:44:52,dataset,RoBERTa,This is the worst purchase I have made this year.,Negative,95.24
+2026-10-12T18:44:52,dataset,RoBERTa,"The service was fine, but the price was a little high.",Positive,53.08
+2026-10-12T18:44:52,dataset,RoBERTa,"Setup was simple, and everything worked on the first try.",Positive,92.72
+2026-10-12T18:44:52,dataset,RoBERTa,The instructions are confusing and difficult to follow.,Negative,88.26
+2026-10-12T18:44:52,dataset,RoBERTa,"I love the design, and the product feels very durable.",Positive,98.38
+2026-10-12T18:44:52,dataset,RoBERTa,The order arrived two days earlier than expected.,Neutral,73.31
+2026-10-12T18:44:52,dataset,RoBERTa,The camera quality is poor in low light.,Negative,81.45
+2026-10-12T18:44:52,dataset,RoBERTa,"Nothing was wrong with the item, but it did not impress me.",Negative,76.96
+2026-10-12T18:44:52,dataset,RoBERTa,Customer support ignored my messages for several days.,Negative,86.63
+2026-10-12T18:44:52,dataset,RoBERTa,The new update fixed the bugs and improved performance.,Positive,83.42
+2026-10-12T18:44:52,dataset,RoBERTa,The chair is uncomfortable after sitting for an hour.,Negative,80.7
+2026-10-12T18:44:52,dataset,RoBERTa,The subscription is affordable and offers great value.,Positive,96.07
+2026-10-12T18:44:52,dataset,RoBERTa,The app is slow and drains my phone battery.,Negative,92.53
+2026-10-12T18:44:52,dataset,RoBERTa,"The hotel room was clean, quiet, and comfortable.",Positive,89.48
+2026-10-12T18:44:52,dataset,RoBERTa,The product stopped working after only one week.,Negative,86.12
+2026-10-12T18:44:52,dataset,RoBERTa,"The packaging was neat, and the item matched the description.",Positive,96.74
+2026-10-12T18:44:52,dataset,RoBERTa,"The meal was okay, although the portions were small.",Positive,89.62
+2026-10-12T18:44:52,dataset,RoBERTa,I received the wrong item and had to return it.,Negative,84.38
+2026-10-12T18:44:52,dataset,RoBERTa,"The course was informative, engaging, and well organized.",Positive,97.62
+2026-10-12T18:44:52,dataset,RoBERTa,"The printer works as expected, with no major issues.",Positive,70.03
+2026-10-12T18:44:52,dataset,RoBERTa,I would not recommend this service to anyone.,Negative,91.25
+2026-10-12T18:44:52,dataset,RoBERTa,"The screen is bright, sharp, and easy to read.",Positive,94.64
+2026-10-12T18:44:52,dataset,RoBERTa,"The repair took longer than promised, but the result is good.",Positive,85.92
+2026-10-12T18:44:52,dataset,RoBERTa,The price is reasonable for the features provided.,Positive,68.69
+2026-10-12T18:44:52,dataset,RoBERTa,"The instructions were clear, and installation took ten minutes.",Positive,73.05
+2026-10-12T18:44:52,dataset,RoBERTa,"The sound quality is average, and the controls feel cheap.",Negative,92.26
+2026-10-12T18:44:52,dataset,RoBERTa,I had a wonderful experience from start to finish.,Positive,98.75
+2026-10-12T18:44:52,dataset,RoBERTa,"The product looks nice, but it does not work properly.",Negative,89.62
+2026-10-12T18:44:52,dataset,RoBERTa,The support team resolved my issue quickly and professionally.,Positive,65.61
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The application works perfectly. I use it every day.,Positive,97.73
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The delivery was late, and the package was damaged.",Negative,89.94
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The product is acceptable, but nothing special.",Negative,49.02
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,Excellent customer support and fast service!,Positive,97.18
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The software crashes every time I open it.,Negative,87.9
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The headphones have clear sound and comfortable ear cushions.,Positive,85.45
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,I am disappointed with the quality of this product.,Negative,93.56
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The website is easy to navigate and looks modern.,Positive,92.47
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The food arrived cold and tasted terrible.,Negative,94.66
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The staff were friendly and helped me solve the problem.,Positive,80.57
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The battery lasts much longer than I expected.,Positive,60.68
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,This is the worst purchase I have made this year.,Negative,95.24
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The service was fine, but the price was a little high.",Positive,53.08
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"Setup was simple, and everything worked on the first try.",Positive,92.72
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The instructions are confusing and difficult to follow.,Negative,88.26
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"I love the design, and the product feels very durable.",Positive,98.38
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The order arrived two days earlier than expected.,Neutral,73.31
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The camera quality is poor in low light.,Negative,81.45
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"Nothing was wrong with the item, but it did not impress me.",Negative,76.96
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,Customer support ignored my messages for several days.,Negative,86.63
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The new update fixed the bugs and improved performance.,Positive,83.42
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The chair is uncomfortable after sitting for an hour.,Negative,80.7
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The subscription is affordable and offers great value.,Positive,96.07
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The app is slow and drains my phone battery.,Negative,92.53
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The hotel room was clean, quiet, and comfortable.",Positive,89.48
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The product stopped working after only one week.,Negative,86.12
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The packaging was neat, and the item matched the description.",Positive,96.74
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The meal was okay, although the portions were small.",Positive,89.62
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,I received the wrong item and had to return it.,Negative,84.38
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The course was informative, engaging, and well organized.",Positive,97.62
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The printer works as expected, with no major issues.",Positive,70.03
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,I would not recommend this service to anyone.,Negative,91.25
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The screen is bright, sharp, and easy to read.",Positive,94.64
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The repair took longer than promised, but the result is good.",Positive,85.92
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The price is reasonable for the features provided.,Positive,68.69
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The instructions were clear, and installation took ten minutes.",Positive,73.05
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The sound quality is average, and the controls feel cheap.",Negative,92.26
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,I had a wonderful experience from start to finish.,Positive,98.75
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,"The product looks nice, but it does not work properly.",Negative,89.62
+2026-10-12T18:59:31,dataset_comparison,RoBERTa,The support team resolved my issue quickly and professionally.,Positive,65.61
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The application works perfectly. I use it every day.,Positive,99.98
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The delivery was late, and the package was damaged.",Negative,99.97
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The product is acceptable, but nothing special.",Negative,98.69
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,Excellent customer support and fast service!,Positive,99.99
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The software crashes every time I open it.,Negative,99.97
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The headphones have clear sound and comfortable ear cushions.,Positive,99.88
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,I am disappointed with the quality of this product.,Negative,99.98
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The website is easy to navigate and looks modern.,Positive,99.92
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The food arrived cold and tasted terrible.,Negative,99.96
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The staff were friendly and helped me solve the problem.,Positive,99.98
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The battery lasts much longer than I expected.,Negative,99.34
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,This is the worst purchase I have made this year.,Negative,99.98
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The service was fine, but the price was a little high.",Positive,97.13
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"Setup was simple, and everything worked on the first try.",Negative,88.0
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The instructions are confusing and difficult to follow.,Negative,99.96
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"I love the design, and the product feels very durable.",Positive,99.99
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The order arrived two days earlier than expected.,Negative,97.63
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The camera quality is poor in low light.,Negative,99.98
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"Nothing was wrong with the item, but it did not impress me.",Negative,99.94
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,Customer support ignored my messages for several days.,Negative,99.95
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The new update fixed the bugs and improved performance.,Positive,99.92
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The chair is uncomfortable after sitting for an hour.,Negative,99.86
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The subscription is affordable and offers great value.,Positive,99.98
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The app is slow and drains my phone battery.,Negative,99.92
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The hotel room was clean, quiet, and comfortable.",Positive,99.98
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The product stopped working after only one week.,Negative,99.96
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The packaging was neat, and the item matched the description.",Positive,99.96
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The meal was okay, although the portions were small.",Positive,99.94
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,I received the wrong item and had to return it.,Negative,99.96
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The course was informative, engaging, and well organized.",Positive,99.99
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The printer works as expected, with no major issues.",Negative,93.78
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,I would not recommend this service to anyone.,Negative,93.83
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The screen is bright, sharp, and easy to read.",Positive,99.98
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The repair took longer than promised, but the result is good.",Positive,99.97
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The price is reasonable for the features provided.,Positive,99.78
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The instructions were clear, and installation took ten minutes.",Negative,99.32
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The sound quality is average, and the controls feel cheap.",Negative,99.98
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,I had a wonderful experience from start to finish.,Positive,99.99
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,"The product looks nice, but it does not work properly.",Negative,99.97
+2026-10-12T19:00:11,dataset_comparison,DistilBERT,The support team resolved my issue quickly and professionally.,Positive,99.02
+2026-10-12T19:07:44,Короткий,RoBERTa,Great!,Positive,93.82
+2026-10-12T19:07:44,Короткий,DistilBERT,Great!,Positive,99.99
+2026-10-12T19:07:44,Довгий,RoBERTa,"I purchased this laptop a month ago and have been using it every day. The display is sharp, the keyboard feels comfortable, and most tasks run smoothly. However, the fan is loud, the battery runs out much sooner than advertised, and the customer service team has not answered my emails. Overall, I have both positive and negative impressions.",Positive,64.64
+2026-10-12T19:07:44,Довгий,DistilBERT,"I purchased this laptop a month ago and have been using it every day. The display is sharp, the keyboard feels comfortable, and most tasks run smoothly. However, the fan is loud, the battery runs out much sooner than advertised, and the customer service team has not answered my emails. Overall, I have both positive and negative impressions.",Negative,85.26
+2026-10-12T19:07:44,Саркастичний,RoBERTa,Fantastic! The app deleted all my files again. Exactly what I needed.,Positive,97.41
+2026-10-12T19:07:44,Саркастичний,DistilBERT,Fantastic! The app deleted all my files again. Exactly what I needed.,Negative,93.66
+2026-10-12T19:07:44,Суперечливий,RoBERTa,"I love the design, but the product is unreliable and breaks constantly.",Negative,89.68
+2026-10-12T19:07:44,Суперечливий,DistilBERT,"I love the design, but the product is unreliable and breaks constantly.",Negative,99.61
+RoBERTa,all_40,The application works perfectly. I use it every day.,Positive,97.73
+RoBERTa,all_40,"The delivery was late, and the package was damaged.",Negative,89.94
+RoBERTa,all_40,"The product is acceptable, but nothing special.",Negative,49.02
+RoBERTa,all_40,Excellent customer support and fast service!,Positive,97.18
+RoBERTa,all_40,The software crashes every time I open it.,Negative,87.9
+RoBERTa,all_40,The headphones have clear sound and comfortable ear cushions.,Positive,85.45
+RoBERTa,all_40,I am disappointed with the quality of this product.,Negative,93.56
+RoBERTa,all_40,The website is easy to navigate and looks modern.,Positive,92.47
+RoBERTa,all_40,The food arrived cold and tasted terrible.,Negative,94.66
+RoBERTa,all_40,The staff were friendly and helped me solve the problem.,Positive,80.57
+RoBERTa,all_40,The battery lasts much longer than I expected.,Positive,60.68
+RoBERTa,all_40,This is the worst purchase I have made this year.,Negative,95.24
+RoBERTa,all_40,"The service was fine, but the price was a little high.",Positive,53.08
+RoBERTa,all_40,"Setup was simple, and everything worked on the first try.",Positive,92.72
+RoBERTa,all_40,The instructions are confusing and difficult to follow.,Negative,88.26
+RoBERTa,all_40,"I love the design, and the product feels very durable.",Positive,98.38
+RoBERTa,all_40,The order arrived two days earlier than expected.,Neutral,73.31
+RoBERTa,all_40,The camera quality is poor in low light.,Negative,81.45
+RoBERTa,all_40,"Nothing was wrong with the item, but it did not impress me.",Negative,76.96
+RoBERTa,all_40,Customer support ignored my messages for several days.,Negative,86.63
+RoBERTa,all_40,The new update fixed the bugs and improved performance.,Positive,83.42
+RoBERTa,all_40,The chair is uncomfortable after sitting for an hour.,Negative,80.7
+RoBERTa,all_40,The subscription is affordable and offers great value.,Positive,96.07
+RoBERTa,all_40,The app is slow and drains my phone battery.,Negative,92.53
+RoBERTa,all_40,"The hotel room was clean, quiet, and comfortable.",Positive,89.48
+RoBERTa,all_40,The product stopped working after only one week.,Negative,86.12
+RoBERTa,all_40,"The packaging was neat, and the item matched the description.",Positive,96.74
+RoBERTa,all_40,"The meal was okay, although the portions were small.",Positive,89.62
+RoBERTa,all_40,I received the wrong item and had to return it.,Negative,84.38
+RoBERTa,all_40,"The course was informative, engaging, and well organized.",Positive,97.62
+RoBERTa,all_40,"The printer works as expected, with no major issues.",Positive,70.03
+RoBERTa,all_40,I would not recommend this service to anyone.,Negative,91.25
+RoBERTa,all_40,"The screen is bright, sharp, and easy to read.",Positive,94.64
+RoBERTa,all_40,"The repair took longer than promised, but the result is good.",Positive,85.92
+RoBERTa,all_40,The price is reasonable for the features provided.,Positive,68.69
+RoBERTa,all_40,"The instructions were clear, and installation took ten minutes.",Positive,73.05
+RoBERTa,all_40,"The sound quality is average, and the controls feel cheap.",Negative,92.26
+RoBERTa,all_40,I had a wonderful experience from start to finish.,Positive,98.75
+RoBERTa,all_40,"The product looks nice, but it does not work properly.",Negative,89.62
+RoBERTa,all_40,The support team resolved my issue quickly and professionally.,Positive,65.61
